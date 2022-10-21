@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here.
 
-## Getting Started
+### Getting Started
 
 These instructions will [do something] on your local machine for [development/experimentation/demo].
 
