@@ -1,4 +1,4 @@
-###### IP adress determiner
+# IP adress determiner
 
 This code will determine if supplied address is our router or lease IP address. It does this by comparing if input ip address is either our router or a lease
 
